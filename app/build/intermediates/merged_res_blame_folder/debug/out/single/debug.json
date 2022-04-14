@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_evening.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/evening.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_temperature.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/temperature.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_humidity.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/humidity.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_sunrise.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/sunrise.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_storm.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/storm.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_wind.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/wind.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_snowflake.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/snowflake.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_location.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/location.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_rain.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/rain.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_morning.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/morning.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/menu_menu_main.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/layout_dialog_custom_progress.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/layout/dialog_custom_progress.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_close.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/close.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_cloud.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/cloud.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_sunset.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/sunset.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_sunny.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/sunny.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/drawable_ic_refresh_24dp.xml.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/drawable/ic_refresh_24dp.xml"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/149725d00cf2a00263579484abaf33bf/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/a6343a9ed48f778692b64be8f75a3cbc/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/16b9badf62e725538b75126e618c9030/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/5f282e5824bb6af300c3dc975331b1b2/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b17286511af5159328b06fa9a11453eb/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/dcd1a260229a1446432438d9ce3173c2/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b3fc07190e25341779f2f35023effb4f/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/05fed1bafd5d51a3d27f889495c9d3cd/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/75494bc8576a885d72c8414e129cf8a5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/4398c8cf4e80cbf06d2e819939321a47/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/950031e74d0582516645ab762af35198/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/01da8148604af9d56fa328ebbc381c1c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/0a45269cb76b4e48fe3f09fd474e1046/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/7bc878d13a5092022db18defb7b42c17/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/88d656a56d70ad469dfc1a7e97075220/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/42c90ecd26798f8ab8f9139ded00327b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/4c4e567ed905fa9ea81253e24d5a3b8f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/ca98e5d5d2f3d87a6f421903492d2da1/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b4362d184f0f83739ed9ac2c6578c4b4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/d24a60f3485f0dd6380e3d52bbe5d362/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/3d3200ff3502d85e24103d3e150825dd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/0a167a8b75df41fb786c9a89d502f0bb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/22ce633032d7eaefa8ba7abaad96affd/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/eaf8bb3f9b822f7e2c021e1398098114/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/967434bcc3e2de45a30fce4bd255000d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/88acfa37f803e8aed42f06681235d57b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/6d5837d6bb31bac008befeb854f391a8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/fb269309bf01d67636b49dac4d69d990/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/06773c7c44c3d84fb763d0cdb30455c4/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f36ef828193429291345888de2732c95/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:15:22-78
+application
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:17:5-36:19
+MERGED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/a6343a9ed48f778692b64be8f75a3cbc/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/a6343a9ed48f778692b64be8f75a3cbc/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/5f282e5824bb6af300c3dc975331b1b2/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/5f282e5824bb6af300c3dc975331b1b2/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b17286511af5159328b06fa9a11453eb/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b17286511af5159328b06fa9a11453eb/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b3fc07190e25341779f2f35023effb4f/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b3fc07190e25341779f2f35023effb4f/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/05fed1bafd5d51a3d27f889495c9d3cd/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/05fed1bafd5d51a3d27f889495c9d3cd/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/22ce633032d7eaefa8ba7abaad96affd/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/22ce633032d7eaefa8ba7abaad96affd/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.weatherapp.activities.MainActivity
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:27:13-49
+	android:exported
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:26:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/149725d00cf2a00263579484abaf33bf/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/149725d00cf2a00263579484abaf33bf/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/a6343a9ed48f778692b64be8f75a3cbc/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/a6343a9ed48f778692b64be8f75a3cbc/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/16b9badf62e725538b75126e618c9030/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/16b9badf62e725538b75126e618c9030/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/5f282e5824bb6af300c3dc975331b1b2/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/5f282e5824bb6af300c3dc975331b1b2/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b17286511af5159328b06fa9a11453eb/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b17286511af5159328b06fa9a11453eb/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/dcd1a260229a1446432438d9ce3173c2/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/dcd1a260229a1446432438d9ce3173c2/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b3fc07190e25341779f2f35023effb4f/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b3fc07190e25341779f2f35023effb4f/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/05fed1bafd5d51a3d27f889495c9d3cd/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/05fed1bafd5d51a3d27f889495c9d3cd/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/75494bc8576a885d72c8414e129cf8a5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/75494bc8576a885d72c8414e129cf8a5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/4398c8cf4e80cbf06d2e819939321a47/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/4398c8cf4e80cbf06d2e819939321a47/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/950031e74d0582516645ab762af35198/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/950031e74d0582516645ab762af35198/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/01da8148604af9d56fa328ebbc381c1c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/01da8148604af9d56fa328ebbc381c1c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/0a45269cb76b4e48fe3f09fd474e1046/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/0a45269cb76b4e48fe3f09fd474e1046/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/7bc878d13a5092022db18defb7b42c17/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/7bc878d13a5092022db18defb7b42c17/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/88d656a56d70ad469dfc1a7e97075220/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/88d656a56d70ad469dfc1a7e97075220/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/42c90ecd26798f8ab8f9139ded00327b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/42c90ecd26798f8ab8f9139ded00327b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/4c4e567ed905fa9ea81253e24d5a3b8f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/4c4e567ed905fa9ea81253e24d5a3b8f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/ca98e5d5d2f3d87a6f421903492d2da1/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/ca98e5d5d2f3d87a6f421903492d2da1/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b4362d184f0f83739ed9ac2c6578c4b4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/b4362d184f0f83739ed9ac2c6578c4b4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/d24a60f3485f0dd6380e3d52bbe5d362/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/d24a60f3485f0dd6380e3d52bbe5d362/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/3d3200ff3502d85e24103d3e150825dd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/3d3200ff3502d85e24103d3e150825dd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/0a167a8b75df41fb786c9a89d502f0bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/0a167a8b75df41fb786c9a89d502f0bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/22ce633032d7eaefa8ba7abaad96affd/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/22ce633032d7eaefa8ba7abaad96affd/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/eaf8bb3f9b822f7e2c021e1398098114/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/eaf8bb3f9b822f7e2c021e1398098114/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/967434bcc3e2de45a30fce4bd255000d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/967434bcc3e2de45a30fce4bd255000d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/88acfa37f803e8aed42f06681235d57b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/88acfa37f803e8aed42f06681235d57b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/6d5837d6bb31bac008befeb854f391a8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/6d5837d6bb31bac008befeb854f391a8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/fb269309bf01d67636b49dac4d69d990/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/fb269309bf01d67636b49dac4d69d990/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/06773c7c44c3d84fb763d0cdb30455c4/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/06773c7c44c3d84fb763d0cdb30455c4/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f36ef828193429291345888de2732c95/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f36ef828193429291345888de2732c95/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

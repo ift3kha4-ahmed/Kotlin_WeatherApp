@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml
+10
+11    <!-- To access the Internet -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:22-76
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:9:5-67
+15-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:5-79
+16-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:6:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:11:5-76
+17-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:11:22-73
+18
+19    <!-- To access the location -->
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:14:5-79
+20-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:14:22-76
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:15:5-81
+21-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:15:22-78
+22
+23    <application
+23-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:17:5-36:19
+24        android:allowBackup="true"
+24-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:18:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.2.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/2680bcf9ec952db3d54f362240a0763f/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:19:9-43
+29        android:label="@string/app_name"
+29-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:20:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:21:9-54
+31        android:supportsRtl="true"
+31-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:23:9-40
+34        <activity
+34-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:25:9-34:20
+35            android:name="com.weatherapp.activities.MainActivity"
+35-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:26:13-52
+36            android:exported="true"
+36-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:28:13-36
+37            android:screenOrientation="portrait" >
+37-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:27:13-49
+38            <intent-filter>
+38-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:29:13-33:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:30:17-69
+39-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:30:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:32:17-77
+41-->/Users/ar-shaik.ahmed/Downloads/WeatherApp_v8/app/src/main/AndroidManifest.xml:32:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->[com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:27:9-29:72
+45            android:name="com.karumi.dexter.DexterActivity"
+45-->[com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:28:13-60
+46            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+46-->[com.karumi:dexter:6.0.1] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/170d28508f62781c092080442628d7d9/transformed/jetified-dexter-6.0.1/AndroidManifest.xml:29:13-69
+47        <activity
+47-->[com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+48            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+48-->[com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+49            android:exported="false"
+49-->[com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+50            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+50-->[com.google.android.gms:play-services-base:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/c416b772463f4c9cc28b089381c08a18/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+51
+52        <meta-data
+52-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+53            android:name="com.google.android.gms.version"
+53-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+54            android:value="@integer/google_play_services_version" />
+54-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ar-shaik.ahmed/.gradle/caches/transforms-3/f5f9306b51178e12e4c9deedea14c1a1/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+55    </application>
+56
+57</manifest>
